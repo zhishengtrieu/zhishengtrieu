@@ -26,6 +26,6 @@
   
   <h2>📈 My GitHub History</h2>
   
-  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=zhishengtrieu&show_icons=true&theme=transparent"/>
-  <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhishengtrieu&theme=transparent&layout=compact"/>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zhishengtrieu&show_icons=true&theme=transparent"/>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhishengtrieu&theme=transparent&layout=compact"/>
 </div>
