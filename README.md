@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on my <a href="zhisheng.me">portfolio</a> 
+- 🔭 I’m currently working on my <a href="https://zhisheng.me"  target="_blank" title="portfolio">portfolio</a> 
 - 🌱 I’m currently learning ML with Tensorflow 
 - 📫 How to reach me : zhishengtrieu@gmail.com 
 
