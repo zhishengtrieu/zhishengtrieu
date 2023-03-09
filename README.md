@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 I’m currently working on my <a href="https://zhisheng.me"  target="_blank" title="portfolio">portfolio</a> 
-- 🌱 I’m currently learning ML with Tensorflow 
+- 🌱 I’m currently learning <a href="https://github.com/cegepmatane/Analyseur-Immobilier">ML</a> with Tensorflow 
 - 📫 How to reach me : zhishengtrieu@gmail.com 
 
 <div align="center">
