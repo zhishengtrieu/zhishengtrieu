@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 I’m currently working on my <a href="https://zhisheng.me"  target="_blank" title="portfolio">portfolio</a> 
-- 🌱 I’m currently learning <a href="https://github.com/cegepmatane/Analyseur-Immobilier">ML</a> with Tensorflow 
+- 🌱 I’m currently learning <a href="https://github.com/cegepmatane/Analyseur-Immobilier">ML</a> with Tensorflow and DevOps
 - 📫 How to reach me : zhishengtrieu@gmail.com 
 
 <div align="center">
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" title="python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" title="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" title="tensorflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" title="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="45" height="45" title="azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45" title="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45" title="kubernetes"/>
 
   
   <h2>📈 My GitHub History</h2>
